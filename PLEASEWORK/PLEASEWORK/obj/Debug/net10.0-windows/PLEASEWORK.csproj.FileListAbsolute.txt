@@ -1,0 +1,17 @@
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\bin\Debug\net10.0-windows\PLEASEWORK.exe
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\bin\Debug\net10.0-windows\PLEASEWORK.deps.json
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\bin\Debug\net10.0-windows\PLEASEWORK.runtimeconfig.json
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\bin\Debug\net10.0-windows\PLEASEWORK.dll
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\bin\Debug\net10.0-windows\PLEASEWORK.pdb
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.Form1.resources
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.csproj.GenerateResource.cache
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.AssemblyInfoInputs.cache
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.AssemblyInfo.cs
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.csproj.CoreCompileInputs.cache
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.dll
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\refint\PLEASEWORK.dll
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.pdb
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.genruntimeconfig.cache
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\ref\PLEASEWORK.dll
+C:\Users\buckm\source\repos\PLEASEWORK\PLEASEWORK\obj\Debug\net10.0-windows\PLEASEWORK.csproj.Up2Date
